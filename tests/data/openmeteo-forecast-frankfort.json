@@ -1,0 +1,41 @@
+{
+ "current": {
+  "interval": 900,
+  "temperature_2m": 43.9,
+  "time": "2026-10-19T09:30",
+  "weather_code": 0
+ },
+ "current_units": {
+  "interval": "seconds",
+  "temperature_2m": "\u00b0F",
+  "time": "iso8601",
+  "weather_code": "wmo code"
+ },
+ "daily": {
+  "precipitation_probability_max": [
+   0
+  ],
+  "temperature_2m_max": [
+   71.1
+  ],
+  "temperature_2m_min": [
+   37.1
+  ],
+  "time": [
+   "2026-10-19"
+  ]
+ },
+ "daily_units": {
+  "precipitation_probability_max": "%",
+  "temperature_2m_max": "\u00b0F",
+  "temperature_2m_min": "\u00b0F",
+  "time": "iso8601"
+ },
+ "elevation": 162.0,
+ "generationtime_ms": 0.3992319107055664,
+ "latitude": 38.194843,
+ "longitude": -84.86891,
+ "timezone": "America/New_York",
+ "timezone_abbreviation": "GMT-4",
+ "utc_offset_seconds": -14400
+}

@@ -1,0 +1,16 @@
+# Upstream reference checkouts (cloned, never the source of truth for this repo)
+reference/
+
+# App state and runtime artifacts
+appdata/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloaded models (fetched on demand, too large for the repo)
+# TTS: kokoro-multi-lang-v1_0 · STT: sense-voice
+models/
+
+# OS noise
+.DS_Store
