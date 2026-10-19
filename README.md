@@ -62,9 +62,9 @@ you can read the code or open a pull request.
   a configured microphone that has gone away is reported honestly — never a silent switch to
   a different mic.
 
-Local models: **Qwen3-8B** (`buster-ai`, :11434), **Qwen2.5-Coder-14B** (`buster-14b`,
-:11436), **Qwen3-Coder-30B** (`buster-coder`, :11435) — llama.cpp servers with an
-OpenAI-compatible API.
+Local models: **Qwen3-8B** (`buster-ai`, :11434) and **Qwen2.5-Coder-14B**
+(`buster-14b`, :11436) — llama.cpp servers with an OpenAI-compatible API.
+(A third model, Qwen3-Coder-30B, was removed 2026-10-19 — see NOTES.md.)
 
 ## Run
 
