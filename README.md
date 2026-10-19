@@ -14,9 +14,10 @@ This is a true port, built against the original as the reference:
 - The LAN voice-host protocol and the host-side pipeline are documented from
   [`rudysev/host-assistant`](https://github.com/rudysev/host-assistant).
 
-The upstream project made this possible; full credit to its author. Personal use only —
-attribution kept, upstream code is not redistributed here (the `reference/` checkouts are
-the upstream repos, cloned for reference and git-ignored).
+The upstream project made this possible; full credit to its author. This port is
+released under the **MIT License** (see `LICENSE`) — attribution kept; upstream code
+itself is not redistributed here (the `reference/` checkouts are the upstream repos,
+cloned for reference and git-ignored).
 
 ## Download
 
@@ -144,5 +145,5 @@ NOTES.md      # dated notes, decisions, discovery report
 Portal-Assistant ("Jarvis"), portal-wake and portal-commons are community projects by
 [rudysev](https://github.com/rudysev) — **not affiliated with, endorsed by, or sponsored
 by Meta or Google**. "Meta Portal" and "Portal" are Meta trademarks; "Gemini" is a Google
-trademark, used only to identify compatible hardware/services. This port is personal,
-non-commercial use with attribution.
+trademark, used only to identify compatible hardware/services. This port is released
+under the MIT License (see `LICENSE`).
